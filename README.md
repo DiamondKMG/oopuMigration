@@ -1,0 +1,1 @@
+data for the paper When to go against the flow: examining patterns of performance over multi-day migration events in the Hawaiian stream fish, ‘o‘opu nōpili (Sicyopterus stimpsoni) will be uploaded here upon manuscript publication
